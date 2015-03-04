@@ -1,4 +1,7 @@
-# foobar
-baz
-bax
+# foo
+
+## bar
+
+- baz
+- bax
 
